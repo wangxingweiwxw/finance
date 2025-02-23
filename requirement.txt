@@ -1,0 +1,5 @@
+efinance
+pandas
+numpy
+matplotlib
+seaborn
